@@ -1,14 +1,5 @@
 ![header](header.png "Header")
 
-## Tech Stack
-* HTML
-* CSS
-* JavaScript
-* React/Redux
-* Node
-* PostgreSQL
-* Python
-
 Working with a cross-functional team building amazing customer facing software products with a key focus on user experience is what I love to do.
 
 
