@@ -1,6 +1,7 @@
 ![header](header.png "Header")
 
 Working with a cross-functional team building amazing customer facing software products with a key focus on user experience is what I love to do.
+Teck Stack: HTML CSS JavaScript Node PostgreSQL Python
 
 - 💻  ---> Connect with me on [Linkedin](https://www.linkedin.com/in/kevin-carr-/)
 - 🤔  ---> Learn a bit more [about me](https://www.kevincarr.dev) 
