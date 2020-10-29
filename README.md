@@ -1,6 +1,6 @@
 ![header](header.png "Header")
 
-## Teck Stack
+## Tech Stack
 * HTML
 * CSS
 * JavaScript
